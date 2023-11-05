@@ -16,4 +16,8 @@
 
     <packaging>pom</packaging>
 
+    <modules>
+        <module>OnlineOrderCommon</module>
+    </modules>
+
 </project>
