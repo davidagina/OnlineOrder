@@ -1,4 +1,4 @@
-package com.onlineorder;
+package com.onlineorder.site;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
