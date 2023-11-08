@@ -20,6 +20,7 @@
 
 	<modules>
 		<module>OnlineOrderBackEnd</module>
+		<module>OnlineOrderFrontEnd</module>
 	</modules>
 	<dependencies>
 		<dependency>
